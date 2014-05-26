@@ -1,0 +1,4 @@
+*.sublime*
+.DS_Store
+*.sass-cache*
+wp-config.local.php
